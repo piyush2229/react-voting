@@ -4,6 +4,7 @@ import './App.css';
 import Sidebar from "./Sidebar";
 import Home from "./Pages/Home";
 import Vote from "./Pages/Vote";
+
 import About from "./Pages/About";
 
 function App() {

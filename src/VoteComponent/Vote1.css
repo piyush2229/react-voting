@@ -9,7 +9,7 @@
     font-weight: 600;
 }
 .Vote1 h2{
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 700;
     padding-bottom: 20px;
 }
@@ -24,4 +24,31 @@
     border: 1px solid rgb(16, 201, 34);
     border-radius: 20px;
     background: linear-gradient(to right, rgb(36, 150, 81) 0%, rgb(74, 185, 146) calc(var(--percentage)), transparent calc(var(--percentage)), transparent 100%);
+}
+.result button{
+    margin: 20px auto;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    background: #b1d7bd;
+    border: none;
+    border-radius: 5px;
+}
+.result h2{
+    font-size: 20px;
+    color: blueviolet;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.result h3{
+    font-size: 20px;
+    color: rgb(226, 76, 43);
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.result p{
+    font-size: 20px;
+    color: rgb(48, 150, 36);
+    font-weight: 700;
+    padding-bottom: 20px;
 }

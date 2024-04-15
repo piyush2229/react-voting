@@ -16,7 +16,7 @@ function Sidebar({ isExpanded, setExpanded }) {
                             </div>
                             <div>
                                 {item.title}
-                                <hr />
+                                  <hr />
                             </div>
                         
                         </Link>
