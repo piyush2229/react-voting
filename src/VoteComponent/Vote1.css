@@ -1,0 +1,27 @@
+.Vote1 .container{
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.Vote1 h2{
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.Vote1 .container button {
+    margin: 2px;
+    width: 200px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900px;
+    color: rgb(10, 65, 10);
+    height: 50px;
+    border: 1px solid rgb(16, 201, 34);
+    border-radius: 20px;
+    background: linear-gradient(to right, rgb(36, 150, 81) 0%, rgb(74, 185, 146) calc(var(--percentage)), transparent calc(var(--percentage)), transparent 100%);
+}

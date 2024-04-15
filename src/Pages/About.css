@@ -1,0 +1,11 @@
+.about{
+    padding: 70px;
+}
+.about h1{
+    color: rgb(15, 15, 98);
+    padding-bottom: 25px;
+}
+.about p{
+    text-shadow: 5px 0px 5px #484db3cb ;
+    font-size: 20px;
+}
